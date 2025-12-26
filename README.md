@@ -20,8 +20,14 @@ This GitHub profile presents a curated selection of my projects, labs, and resea
 
 ## 🎓 Certifications
 
-- **eJPT (eLearnSecurity Junior Penetration Tester)**  
-- **ISO 27001 Lead Implementer Intern**
+<div style="display: flex; align-items: center; gap: 10px;">
+  <img src="assets/CySA+-png.png" alt="CySA+" style="height: 80px; object-fit: contain;" />
+  <img src="assets/sec.png" alt="Sec+" style="height: 80px; object-fit: contain;" />
+  <img src="assets/csap-logo-jpg.png" alt="CSAP" style="height: 80px; object-fit: contain;" />
+  <img src="assets/1750278182485.png" alt="PT1" style="height: 80px; object-fit: contain;" />
+  <img src="assets/ejpt-certification.png" alt="eJPT" style="height: 80px; object-fit: contain;" />
+  <img src="assets/ICCA.png" alt="ICCA" style="height: 80px; object-fit: contain;" />
+</div>
 
 ---
 
