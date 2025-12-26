@@ -20,13 +20,13 @@ This GitHub profile presents a curated selection of my projects, labs, and resea
 
 ## 🎓 Certifications
 
-<div>
-  <img src="assets/CySA+-png.png" alt="CySA+" width="100" />
-  <img src="assets/sec.png" alt="Sec+" width="100" />
-  <img src="assets/csap-logo-jpg.png" alt="CSAP" width="100" />
-  <img src="assets/ejpt-certification.png" alt="eJPT" width="100" />
-  <img src="assets/ICCA.png" alt="ICCA" width="100" />
-  <img src="assets/1750278182485.png" alt="PT1" width="100" />
+<div align="center">
+<a href="https://www.credly.com/badges/fc6a4cce-1cce-4347-858a-22bd59207a2d/public_url" target="_blank"><img src="assets/CySA+-png.png" alt="CySA+" width="100" /></a>
+<a href="https://www.credly.com/badges/01608032-abfb-4dc2-a346-edb4c840aef2/public_url" target="_blank"><img src="assets/sec.png" alt="Sec+" width="100" /></a>
+<a href="https://www.credly.com/badges/60602a12-7cb7-4f0b-945a-e58e53695ea6/public_url" target="_blank"><img src="assets/csap-logo-jpg.png" alt="CSAP" width="100" /></a>
+<a href="https://certs.ine.com/67b7e3ed-b5f8-40ad-9af3-193b792b7f8d#acc.niC4FI8p" target="_blank"><img src="assets/ejpt-certification.png" alt="eJPT" width="100" /></a>
+<a href="https://certs.ine.com/cc695614-552b-4fd2-8181-48bbee07c1c8#acc.rVu3UyZL" target="_blank"><img src="assets/ICCA.png" alt="ICCA" width="100" /></a>
+<a href="https://www.credly.com/badges/58406c25-b055-49a2-beed-456868465212/public_url" target="_blank"><img src="assets/1750278182485.png" alt="PT1" width="100" /></a>
 </div>
 
 ---
