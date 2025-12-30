@@ -45,11 +45,4 @@ This GitHub profile presents a curated selection of my projects, labs, and resea
 
 ---
 
-## 🕵️‍♂️ Technical Handle
-
-Some research and labs are published under the handle:  
-**d0n@server101**
-
----
-
 <sub>Crafted with purpose and precision — building security that matters.</sub>
