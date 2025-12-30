@@ -1,8 +1,6 @@
 # 👋 Hi, I’m Wadie!
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/wadiemaj)
-[![Email](https://img.shields.io/badge/-Email-c14438?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your.wadieproacc@gmail.com)
-[![GitHub followers](https://img.shields.io/github/followers/wadie-majidi?label=Follow&style=for-the-badge)](https://github.com/wadie-majidi?tab=followers)
 
 ---
 
